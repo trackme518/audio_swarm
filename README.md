@@ -1,7 +1,11 @@
 # audio_swarm
 Swarm simulation for spatial audio diffusion
 
+## For Windows
+Download the zip folder, unzip, double click .exe file (no need to install).
+
 ## For MacOS
+When you download usigned app from the internet (with a browser) it may apply [quarantine attribute](https://derflounder.wordpress.com/2012/11/20/clearing-the-quarantine-extended-attribute-from-downloaded-applications/) on it and give you an error. You can check the attributes assigned to the file with `xattr /path/to/MyApp.app`. You also need to allow running App from unverfied sources in Settings. Detailed instructions below: 
 * Right-click on the downloaded .zip folder, `open with...archive utility` (it will unzip)
 * Righ-click on the unzipped folder, select `New Terminal at Folder`
 * paste this command: `sudo xattr -r -d com.apple.quarantine audioAnimator_v4.app`(replace audioAnimator_v4.app with the name of the downloaded app)
