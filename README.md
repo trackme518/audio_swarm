@@ -1,4 +1,4 @@
-# audio_swarm
+# Audio Swarm
 Swarm simulation for spatial audio diffusion
 
 ## For Windows
