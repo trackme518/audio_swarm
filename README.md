@@ -14,3 +14,6 @@ When you download usigned app from the internet (with a browser) it may apply [q
   * Go to settings - `Privacy & Security` scroll down
   * Click allow anyway
   * double click the app icon to run it
+
+## License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). When using or distributing the code, give a credit in the form of "OSCreplay software (https://github.com/trackme518/audio_swarm) by Vojtech Leischner (https://trackmeifyoucan.com)". Please refer to the [license](./LICENSE.markdown) or see online [reference](https://creativecommons.org/licenses/by-nc-sa/4.0/). Author is not liable for any damage caused by the software. Usage of the software is completely at your own risk. For commercial licensing please [contact](https://tricktheear.eu/contact/) us.
